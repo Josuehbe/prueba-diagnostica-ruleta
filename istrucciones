@@ -1,1 +1,12 @@
-Este archivo se abre con un editor de texto Visual Studio Code y fue hecho con php y se abre utilizando xampp
+Este archivo se abre con un editor de texto Visual Studio Code y fue hecho con php y se abre utilizando xampp.
+Su uso es el siguiente:
+ 1. Al abrir el archivo en VSC le damos en PHP server:Reload server
+ 2. Una vez iniciado el archivo agregamos los nombre de los jugadores, puedes ingresar todos los nombres que desees y abojo del cuadro de texto presionas el boton crear
+ 3. Una vez creado los jugadores ve a la parte inferior de la pnatalla y presiona el boton jugar ronda 
+Y ya solo mira como van llendo las apuestas del todo juego hasta que deseea dejar de jugar 
+
+PUNTOS ADICIONALES:
+ 1.Si quieres editar a algun jugador encontras sus nombres en la pantalla en un cuadro de texte que puede editar pero para que el cambio se haga efectivo tienes que presionar el boton EDITAR que se encuentra 
+   al lado de los nombres de los jugadores asi mismo tambien lo hacer si deseas editar la cantidad de dinero de cada jugador 
+2. Si desea eliminar a aalgun jugador busca el nombre del jugar y mira al lado del boton EDITAR y veras el boton de ELIMINAR solo da click y ya se elimira ese jugador
+
